@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static-local.assets.wavecloudhost.net/github-cover.jpg" />
+  <img src="http://static-local.assets.wavecloudhost.net/github-cover.jpg" />
 </p>
 <h1 align="center">WaveCloud 🌊️</h1>
 Hosting for individuals and companies with europeans servers!
